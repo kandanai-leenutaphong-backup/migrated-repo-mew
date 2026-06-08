@@ -13,3 +13,7 @@ This project demonstrates the migration process from Azure DevOps repositories t
 Update README with integration notes AB#17
 
 Update README with integration notes - fixes AB#17
+
+## Author
+
+- Kandanai Leenutaphong
