@@ -2,6 +2,10 @@
 
 This repository was created as part of an Azure DevOps to GitHub migration demonstration.
 
+## Author
+
+Kandanai Leenutaphong
+
 ## Contents
 
 - `app.py` - A simple Python application
