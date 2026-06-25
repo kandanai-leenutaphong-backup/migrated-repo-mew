@@ -1,6 +1,11 @@
 trigger:
   - main
 
+pr:
+  - main
+  - featado-18
+  - edsml-kl121-patch-1
+
 pool:
   vmImage: ubuntu-latest
 
